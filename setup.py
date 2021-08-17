@@ -34,7 +34,7 @@ from setuptools import setup, find_packages
 setup(
     name="pyelliptic",
     version='1.5.8',
-    url='https://github.com/yann2192/pyelliptic',
+    url='https://github.com/htyxz8802/pyelliptic',
     license='BSD',
     description=
     "Python OpenSSL wrapper for modern cryptography with " +
